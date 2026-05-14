@@ -8,7 +8,7 @@ Shashank Bayal*, Rushikesh Govind Dawane*, Komal*, Santosh Kumar Vipparthi, Subr
 
 > QuEENet is a hybrid quantum-classical architecture for image classification that integrates parameterized quantum circuits with non-Clifford gates into a CNN backbone. With only **0.085M parameters**, it achieves competitive accuracy across CIFAR-10 (85.73%), MNIST (99.11%), Fashion-MNIST (92.70%), and Medical-MNIST (99.99%).
 
-##Procedure
+Procedure
 1. Install python libraries required for this Queenet code using requirement.txt file provided in repo.
 2. Give input path of the dataset folder (change number of output classes as per the requirements)
 3. In terminal run command " python Queenet_n_fashion_mnist.py"
